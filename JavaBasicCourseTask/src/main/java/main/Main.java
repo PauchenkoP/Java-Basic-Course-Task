@@ -23,6 +23,7 @@ public class Main {
             int exit = scanner.nextInt();
             p = 0;
             firstSymbol = true;
+            equationIsCorrect = true;
             if (exit == 0) {
                 break;
             }
